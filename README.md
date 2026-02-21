@@ -21,9 +21,9 @@
 
 ---
 
-## 📌 About This Project
+## About This Project
 
-This repository presents an integrated, reproducible remote sensing workflow that quantifies **wildfire seasonality**, **biomass burning atmospheric emissions**, and **forest cover loss** across four fire-active nations of southern-eastern Africa — Zambia, Tanzania, Malawi, and Mozambique — over a decade of satellite observations.
+This repository presents an integrated, reproducible remote sensing workflow that quantifies **wildfire seasonality**, **biomass burning atmospheric emissions**, and **forest cover loss** across four fire-active nations of southern-eastern Africa — Zambia, Tanzania, Malawi, and Mozambique over a decade of satellite observations.
 
 The analysis fuses three independently validated satellite data streams:
 - **MODIS MCD64A1** — 500m monthly burned area (2015–2024, 120 months)
