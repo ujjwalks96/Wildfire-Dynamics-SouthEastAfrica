@@ -389,8 +389,27 @@ The study encompasses ~2.5 million km² across 25°E–40°E and 20°S–5°S:
 
 
 ---
+## 11. References
 
-## 11. Requirements
+Giglio, L., Boschetti, L., Roy, D. P., Humber, M. L., & Justice, C. O. (2018). The Collection 6 MODIS burned area mapping algorithm and product. Remote Sensing of Environment, 217, 72–85. https://doi.org/10.1016/j.rse.2018.08.005
+
+Hansen, M. C., Potapov, P. V., Moore, R., Hancher, M., Turubanova, S. A., Tyukavina, A., et al. (2013). High-resolution global maps of 21st-century forest cover change. Science, 342(6160), 850–853. https://doi.org/10.1126/science.1244693
+
+Veefkind, J. P., Aben, I., McMullan, K., Förster, H., de Vries, J., Otter, G., et al. (2012). TROPOMI on the ESA Sentinel-5 Precursor: A GMES mission for global observations of the atmospheric composition. Remote Sensing of Environment, 120, 70–83. https://doi.org/10.1016/j.rse.2011.09.027
+
+Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., & Moore, R. (2017). Google Earth Engine: Planetary-scale geospatial analysis for everyone. Remote Sensing of Environment, 202, 18–27. https://doi.org/10.1016/j.rse.2017.06.031
+
+Boschetti, L., Roy, D. P., Giglio, L., Huang, H., Zubkova, M., & Humber, M. L. (2019). Global validation of the Collection 6 MODIS burned area product. Remote Sensing of Environment, 235, 111490. https://doi.org/10.1016/j.rse.2019.111490
+
+NASA FIRMS (Fire Information for Resource Management System). (n.d.). Retrieved from https://firms.modaps.eosdis.nasa.gov
+
+ESA Copernicus Sentinel-5P TROPOMI Data Portal. (n.d.). Retrieved from https://s5phub.copernicus.eu
+
+Global Forest Watch. (n.d.). Hansen Global Forest Change Data Portal. Retrieved from https://www.globalforestwatch.org
+
+---
+
+## 12. Requirements
 
 ```
 earthengine-api >= 0.1.370
@@ -410,13 +429,13 @@ scipy           >= 1.11.0
 
 ---
 
-## 12. Topics
+## 13. Topics
 
 `remote-sensing` `google-earth-engine` `wildfire` `burned-area` `sentinel-5p` `modis` `hansen-gfc` `atmospheric-emissions` `forest-loss` `east-africa` `zambia` `tanzania` `malawi` `mozambique` `miombo` `python` `jupyter` `folium` `geospatial` `land-cover`
 
 ---
 
-## 13. Author
+## 14. Author
 
 **Ujjwal Kumar Swain**
 
@@ -428,7 +447,7 @@ Geospatial AI Data & Policy Analyst : UNFPA India, Odisha State Office
 
 ---
 
-## 14. License
+## 15. License
 
 This project is licensed under the **MIT License** : see [LICENSE](LICENSE) for details.
 
@@ -440,7 +459,7 @@ This project is licensed under the **MIT License** : see [LICENSE](LICENSE) for 
 
 ---
 
-## 15. Citation
+## 16. Citation
 
 ```bibtex
 @misc{swain2026wildfire,
