@@ -56,7 +56,7 @@ All data acquisition, analysis, visualisation, and interactive mapping are imple
 
 <p align="center">
   <a href="https://ujjwalks96.github.io/Wildfire-Dynamics-SouthEastAfrica/outputs/maps/interactive_fire_heatmap.html">
-    <img src="https://img.shields.io/badge/🔥_Interactive_Fire_Map-Launch_Live_Demo-e31a1c?style=for-the-badge" alt="Live Demo"/>
+    <img src="https://img.shields.io/badge/_Interactive_Fire_Map-Launch_Live_Demo-e31a1c?style=for-the-badge" alt="Live Demo"/>
   </a>
 </p>
 
