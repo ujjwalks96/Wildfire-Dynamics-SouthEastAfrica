@@ -1,5 +1,5 @@
 # Wildfire Dynamics, Atmospheric Emissions and Forest Cover Loss in Zambia, Tanzania, Malawi and Mozambique
-## A Decadal Multi-Source Remote Sensing Analysis (2015–2024)
+## A Decadal Multi-Source Remote Sensing Analysis (2015-2024)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
