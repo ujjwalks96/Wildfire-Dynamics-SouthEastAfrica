@@ -86,10 +86,13 @@ The map is a fully self-contained HTML file (`outputs/maps/interactive_fire_heat
 ![Interactive Map Preview](figures/fig4_spatial_fire_map.png)
 *↑ Static preview : [click here for the live interactive version](https://ujjwalks96.github.io/Wildfire-Dynamics-SouthEastAfrica/outputs/maps/interactive_fire_heatmap.html)*
 
+
+
 ---
 
-## 3. Repository Structure
+## 4. Repository Structure
 
+```
 📦 Wildfire_Dynamics_SouthEastAfrica/
 │
 ├── 📓 notebooks/
