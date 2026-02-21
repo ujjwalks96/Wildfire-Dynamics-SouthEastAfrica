@@ -21,7 +21,7 @@
 
 ---
 
-## About This Project
+## 1. About This Project
 
 This repository presents an integrated, reproducible remote sensing workflow that quantifies **wildfire seasonality**, **biomass burning atmospheric emissions**, and **forest cover loss** across four fire-active nations of southern-eastern Africa — Zambia, Tanzania, Malawi, and Mozambique over a decade of satellite observations.
 
@@ -34,7 +34,7 @@ All data acquisition, analysis, visualisation, and interactive mapping are imple
 
 ---
 
-## 📊 Key Statistics at a Glance
+## 2. Key Statistics at a Glance
 
 | Metric | Value |
 |--------|-------|
@@ -51,7 +51,7 @@ All data acquisition, analysis, visualisation, and interactive mapping are imple
 
 ---
 
-## 🗂️ Repository Structure
+## 3. Repository Structure
 
 ```
 📦 Wildfire_Dynamics_SouthEastAfrica/
@@ -84,7 +84,7 @@ All data acquisition, analysis, visualisation, and interactive mapping are imple
 
 ---
 
-## 🛰️ Datasets
+## 4. Datasets
 
 | Dataset | GEE Collection ID | Band(s) Used | Resolution | Period |
 |---------|------------------|--------------|------------|--------|
@@ -100,7 +100,7 @@ All data acquisition, analysis, visualisation, and interactive mapping are imple
 
 ---
 
-## 🔬 Methodology
+## 5. Methodology
 
 The workflow is structured across **12 notebook sections**:
 
@@ -129,7 +129,7 @@ Section 12 → ZIP export of all outputs
 
 ---
 
-## 📈 Results & Figures
+## 6. Results & Figures
 
 ### Figure 1 — Monthly Fire Calendar & Annual Trends
 
@@ -151,7 +151,7 @@ Section 12 → ZIP export of all outputs
 
 ---
 
-### Figure 3 — Wildfire Dynamics Across Land Cover Types
+### Figure 3: Wildfire Dynamics Across Land Cover Types
 
 ![Fire by Land Cover](figures/fig3_fire_by_landcover.png)
 
@@ -161,7 +161,7 @@ Section 12 → ZIP export of all outputs
 
 ---
 
-### Figure 4 — 10-Year Spatial Fire Recurrence Map
+### Figure 4: 10-Year Spatial Fire Recurrence Map
 
 ![Spatial Fire Frequency Map](figures/fig4_spatial_fire_map.png)
 
@@ -171,7 +171,7 @@ Section 12 → ZIP export of all outputs
 
 ---
 
-### Figure 5 — Sentinel-5P Atmospheric Emissions Climatology
+### Figure 5: Sentinel-5P Atmospheric Emissions Climatology
 
 ![S5P Monthly Climatology](figures/fig5_s5p_monthly_climatology.png)
 
@@ -181,7 +181,7 @@ Section 12 → ZIP export of all outputs
 
 ---
 
-### Figure 6 — Fire-Season Emission Trends and Fire Correlation
+### Figure 6: Fire-Season Emission Trends and Fire Correlation
 
 ![S5P Fire Correlation](figures/fig6_s5p_fire_correlation.png)
 
@@ -191,7 +191,7 @@ Section 12 → ZIP export of all outputs
 
 ---
 
-### Figure 7 — Annual Forest Cover Loss by Country (Hansen GFC)
+### Figure 7: Annual Forest Cover Loss by Country (Hansen GFC)
 
 ![Forest Loss Country](figures/fig7_forest_loss_country.png)
 
@@ -201,7 +201,7 @@ Section 12 → ZIP export of all outputs
 
 ---
 
-### Figure 8 — Fire × Forest Loss Nexus (MODIS × Hansen GFC)
+### Figure 8: Fire × Forest Loss Nexus (MODIS × Hansen GFC)
 
 ![Fire Forest Correlation](figures/fig8_fire_forest_correlation.png)
 
@@ -211,7 +211,7 @@ Section 12 → ZIP export of all outputs
 
 ---
 
-## 🗺️ Interactive Web Map
+## 7. Interactive Web Map
 
 > **The map is live — click the button below to explore it in your browser.**
 
