@@ -216,14 +216,10 @@ Section 12 → ZIP export of all outputs
 > **The map is live : click the button below to explore it in your browser.**
 
 <p align="center">
-  <a href="https://YOUR_USERNAME.github.io/Wildfire-Dynamics-SouthEastAfrica/outputs/maps/interactive_fire_heatmap.html">
+  <a href="https://ujjwalks96.github.io/Wildfire-Dynamics-SouthEastAfrica/outputs/maps/interactive_fire_heatmap.html">
     <img src="https://img.shields.io/badge/🔥_Interactive_Fire_Map-Launch_Live_Demo-e31a1c?style=for-the-badge" alt="Live Demo"/>
   </a>
 </p>
-
-> 📌 **To activate this link:** enable GitHub Pages on your repository  
-> `Settings → Pages → Source: Deploy from branch → branch: main → folder: / (root) → Save`  
-> Then replace `YOUR_USERNAME` in the badge URL above with your actual GitHub username.
 
 ---
 
@@ -249,7 +245,7 @@ The map is a fully self-contained HTML file (`outputs/maps/interactive_fire_heat
 **Preview:**
 
 ![Interactive Map Preview](figures/fig4_spatial_fire_map.png)
-*↑ Static preview : [click here for the live interactive version](https://YOUR_USERNAME.github.io/Wildfire-Dynamics-SouthEastAfrica/outputs/maps/interactive_fire_heatmap.html)*
+*↑ Static preview : [click here for the live interactive version](https://ujjwalks96.github.io/Wildfire-Dynamics-SouthEastAfrica/outputs/maps/interactive_fire_heatmap.html)*
 
 ---
 
@@ -276,7 +272,7 @@ The map is a fully self-contained HTML file (`outputs/maps/interactive_fire_heat
 ### Option B : Local Environment
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Wildfire_Dynamics_SouthEastAfrica.git
+git clone https://github.com/ujjwalks96/Wildfire_Dynamics_SouthEastAfrica.git
 cd Wildfire_Dynamics_SouthEastAfrica
 conda env create -f environment.yml
 conda activate wildfire-sea
@@ -476,7 +472,7 @@ This project is licensed under the **MIT License** : see [LICENSE](LICENSE) for 
                A Decadal Multi-Source Remote Sensing Analysis (2015--2024)},
   year      = {2026},
   publisher = {GitHub},
-  url       = {https://github.com/YOUR_USERNAME/Wildfire_Dynamics_SouthEastAfrica}
+  url       = {https://github.com/ujjwalks96/Wildfire_Dynamics_SouthEastAfrica}
 }
 ```
 
