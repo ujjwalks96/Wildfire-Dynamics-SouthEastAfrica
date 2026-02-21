@@ -434,16 +434,15 @@ scipy           >= 1.11.0
 
 ---
 
-## 14. Author
+## 14. Author Deatils and Declaration
 
 **Ujjwal Kumar Swain**
+Geospatial AI Data & Policy Analyst, United Nations Population Fund (UNFPA) India, Odisha State Office
+M.Sc. Geoinformation Science & Earth Observation : ITC, University of Twente / IIRS-ISRO
 
-M.Sc. Geoinformation Science & Earth Observation : University of Twente / IIRS-ISRO
+📧 [ujjwalks.iirs@gmail.com](mailto:ujjwalks.iirs@gmail.com) &nbsp;|&nbsp; Mobile no.: +917978641480
 
-Geospatial AI Data & Policy Analyst : UNFPA India, Odisha State Office
-
-📧 [ujjwalks.iirs@gmail.com](mailto:ujjwalks.iirs@gmail.com) &nbsp;|&nbsp; Mobile no.: +91 7978641480
-
+This repository presents an **independent preliminary research exercise** undertaken for portfolio purposes. All data used are publicly available satellite products (MODIS MCD64A1, Sentinel-5P TROPOMI, Hansen GFC) accessed via Google Earth Engine. While every effort has been made to ensure methodological rigour, any discrepancies, inaccuracies, or errors in data processing, analysis, or interpretation are the sole responsibility of the author.
 ---
 
 ## 15. License
