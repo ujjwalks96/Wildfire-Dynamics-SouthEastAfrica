@@ -50,10 +50,46 @@ All data acquisition, analysis, visualisation, and interactive mapping are imple
 | **Fire–forest nexus** | r = −0.84 (Zambia), −0.81 (Tanzania), −0.88 (Malawi) |
 
 ---
+## 3. Interactive Web Map
+
+> **The map is live : click the button below to explore it in your browser.**
+
+<p align="center">
+  <a href="https://ujjwalks96.github.io/Wildfire-Dynamics-SouthEastAfrica/outputs/maps/interactive_fire_heatmap.html">
+    <img src="https://img.shields.io/badge/🔥_Interactive_Fire_Map-Launch_Live_Demo-e31a1c?style=for-the-badge" alt="Live Demo"/>
+  </a>
+</p>
+
+---
+
+The map is a fully self-contained HTML file (`outputs/maps/interactive_fire_heatmap.html`) : no server required, works offline once downloaded.
+
+**Map layers & controls:**
+- **3 basemaps** : Esri Satellite Imagery, CartoDB Light, Dark Mode
+- **11 HeatMap layers** : Cumulative 2015–2024 + individual year toggle (2015–2024)
+- **GeoJSON overlays** : Study area boundaries (yellow) + neighbouring countries (dashed)
+- **Controls** : Fullscreen, MiniMap, live coordinates, distance ruler
+
+**6-Tab Analytics Panel** (pure SVG, zero CDN dependencies : works fully offline):
+
+| Tab | Content |
+|-----|---------|
+| 📈 **Trend** | Annual bar chart + monthly climatology + 4 KPI cards |
+| 🌍 **By Country** | Grouped bars per country + country summary cards |
+| 📋 **Matrix** | Year × country burned area matrix (000 km²) |
+| 🌫️ **Emissions** | CO / NO₂ / Aerosol Index country trends + fire-season KPIs |
+| 🌳 **Forest** | Annual loss grouped bars + cumulative loss curves + summary cards |
+| 🔍 **Findings** | 5 literature-validated key findings with citations |
+
+**Preview:**
+
+![Interactive Map Preview](figures/fig4_spatial_fire_map.png)
+*↑ Static preview : [click here for the live interactive version](https://ujjwalks96.github.io/Wildfire-Dynamics-SouthEastAfrica/outputs/maps/interactive_fire_heatmap.html)*
+
+---
 
 ## 3. Repository Structure
 
-```
 📦 Wildfire_Dynamics_SouthEastAfrica/
 │
 ├── 📓 notebooks/
@@ -208,44 +244,6 @@ Section 12 → ZIP export of all outputs
 **What it shows:** Two-row panel : top row shows temporal overlap of annual burned area (filled line, country colour) vs forest loss (green dashed line) for 2015–2023. Bottom row shows scatter plots with OLS regression and Pearson r.
 
 **Key finding:** Forest loss correlates **strongly negatively** with burned area: Zambia (r = −0.84), Tanzania (r = −0.81), Malawi (r = −0.88), Mozambique (r = −0.32). The negative sign : years of lower burned area show higher forest loss : reflects the agricultural expansion mechanism: cropland conversion simultaneously reduces fire-prone savanna extent (lowering burned area) while deforesting woodland (increasing forest loss). Mozambique's weaker correlation is consistent with its more heterogeneous disturbance drivers including cyclone events and commercial logging.
-
----
-
-## 7. Interactive Web Map
-
-> **The map is live : click the button below to explore it in your browser.**
-
-<p align="center">
-  <a href="https://ujjwalks96.github.io/Wildfire-Dynamics-SouthEastAfrica/outputs/maps/interactive_fire_heatmap.html">
-    <img src="https://img.shields.io/badge/🔥_Interactive_Fire_Map-Launch_Live_Demo-e31a1c?style=for-the-badge" alt="Live Demo"/>
-  </a>
-</p>
-
----
-
-The map is a fully self-contained HTML file (`outputs/maps/interactive_fire_heatmap.html`) : no server required, works offline once downloaded.
-
-**Map layers & controls:**
-- 🛰️ **3 basemaps** : Esri Satellite Imagery, CartoDB Light, Dark Mode
-- 🔥 **11 HeatMap layers** : Cumulative 2015–2024 + individual year toggle (2015–2024)
-- 🗾 **GeoJSON overlays** : Study area boundaries (yellow) + neighbouring countries (dashed)
-- 📐 **Controls** : Fullscreen, MiniMap, live coordinates, distance ruler
-
-**6-Tab Analytics Panel** (pure SVG, zero CDN dependencies : works fully offline):
-
-| Tab | Content |
-|-----|---------|
-| 📈 **Trend** | Annual bar chart + monthly climatology + 4 KPI cards |
-| 🌍 **By Country** | Grouped bars per country + country summary cards |
-| 📋 **Matrix** | Year × country burned area matrix (000 km²) |
-| 🌫️ **Emissions** | CO / NO₂ / Aerosol Index country trends + fire-season KPIs |
-| 🌳 **Forest** | Annual loss grouped bars + cumulative loss curves + summary cards |
-| 🔍 **Findings** | 5 literature-validated key findings with citations |
-
-**Preview:**
-
-![Interactive Map Preview](figures/fig4_spatial_fire_map.png)
-*↑ Static preview : [click here for the live interactive version](https://ujjwalks96.github.io/Wildfire-Dynamics-SouthEastAfrica/outputs/maps/interactive_fire_heatmap.html)*
 
 ---
 
