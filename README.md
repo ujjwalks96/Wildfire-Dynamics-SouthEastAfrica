@@ -41,13 +41,13 @@ All data acquisition, analysis, visualisation, and interactive mapping are imple
 | **10-year total burned area** | 5,920,370 km² (all 4 countries) |
 | **Annual mean burned area** | 592,037 km²/year |
 | **Peak fire month** | September : 165,000 km²/month average |
-| **Core fire season** | July – October (>85% of annual burned area) |
-| **CO–fire correlation** | r = −0.70 to −0.82 (Sentinel-5P vs MODIS) |
+| **Core fire season** | July - October (>85% of annual burned area) |
+| **CO-fire correlation** | r = −0.70 to −0.82 (Sentinel-5P vs MODIS) |
 | **Cumulative forest loss** | 64,374 km² (2015–2023, all 4 countries) |
 | **Highest forest loss** | Mozambique: 25,153 km² absolute |
 | **Highest proportional loss** | Malawi: up to 1.22%/year of 2000 forest area |
 | **Forest trend** | Rising OLS trend in all 4 countries |
-| **Fire–forest nexus** | r = −0.84 (Zambia), −0.81 (Tanzania), −0.88 (Malawi) |
+| **Fire-forest nexus** | r = −0.84 (Zambia), −0.81 (Tanzania), −0.88 (Malawi) |
 
 ---
 ## 3. Interactive Web Map
