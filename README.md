@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <b>Study Area:</b> Zambia &nbsp;·&nbsp; Tanzania &nbsp;·&nbsp; Malawi &nbsp;·&nbsp; Mozambique
+  <b>Study Area: </b> Zambia &nbsp;-&nbsp; Tanzania &nbsp;-&nbsp; Malawi &nbsp;-&nbsp; Mozambique
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <b>Period:</b> 2015–2024 (Fire, Atmosphere) &nbsp;·&nbsp; 2015–2023 (Forest)
   &nbsp;&nbsp;|&nbsp;&nbsp;
