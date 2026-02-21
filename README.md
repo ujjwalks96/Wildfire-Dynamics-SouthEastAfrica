@@ -1,4 +1,4 @@
-# 🔥 Wildfire Dynamics, Atmospheric Emissions and Forest Cover Loss in Zambia, Tanzania, Malawi and Mozambique
+# Wildfire Dynamics, Atmospheric Emissions and Forest Cover Loss in Zambia, Tanzania, Malawi and Mozambique
 ## A Decadal Multi-Source Remote Sensing Analysis (2015–2024)
 
 <p align="center">
