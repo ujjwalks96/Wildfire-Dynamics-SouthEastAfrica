@@ -249,7 +249,7 @@ The map is a fully self-contained HTML file (`outputs/maps/interactive_fire_heat
 
 ---
 
-## ⚙️ Setup and Usage
+## 8. Setup and Usage
 
 ### Prerequisites
 - **Google Earth Engine account** (free for research): [signup.earthengine.google.com](https://signup.earthengine.google.com)
@@ -282,11 +282,11 @@ jupyter notebook notebooks/Wildfire_Dynamics_SouthEastAfrica.ipynb
 ### Recommended Run Sequence
 
 ```
-Sections 1–5   →  Fire analysis, Figures 1–4           (~5 min compute)
+Sections 1–5   →  Fire analysis, Figures 1–4           
 Section  6     →  Mount Google Drive + copy rasters
-Section  7     →  Country burned area extraction        (~3–4 min GEE)
-Section  8     →  Sentinel-5P extraction + Figs 5–6    (~5–8 min GEE)
-Section  9     →  Hansen GFC extraction + Figs 7–8     (~4–6 min GEE)
+Section  7     →  Country burned area extraction        
+Section  8     →  Sentinel-5P extraction + Figs 5–6   
+Section  9     →  Hansen GFC extraction + Figs 7–8     
 Section  10    →  Interactive map  ← run AFTER 7, 8, 9 for all tabs
 Sections 11–12 →  Summary report + ZIP export
 ```
@@ -311,7 +311,7 @@ Sections 11–12 →  Summary report + ZIP export
 
 ---
 
-## 🧑‍💻 Code Highlights
+## 9. Code Highlights
 
 ### GEE Burned Area Extraction
 ```python
@@ -376,7 +376,7 @@ for yr in range(2015, 2024):
 
 ---
 
-## Study Area Context
+## 10. Study Area Context
 
 The study encompasses ~2.5 million km² across 25°E–40°E and 20°S–5°S:
 
@@ -390,7 +390,7 @@ The study encompasses ~2.5 million km² across 25°E–40°E and 20°S–5°S:
 
 ---
 
-## 📋 Requirements
+## 11. Requirements
 
 ```
 earthengine-api >= 0.1.370
@@ -410,13 +410,13 @@ scipy           >= 1.11.0
 
 ---
 
-## 🏷️ Topics
+## 12. Topics
 
 `remote-sensing` `google-earth-engine` `wildfire` `burned-area` `sentinel-5p` `modis` `hansen-gfc` `atmospheric-emissions` `forest-loss` `east-africa` `zambia` `tanzania` `malawi` `mozambique` `miombo` `python` `jupyter` `folium` `geospatial` `land-cover`
 
 ---
 
-## Author
+## 13. Author
 
 **Ujjwal Kumar Swain**
 
@@ -428,7 +428,7 @@ Geospatial AI Data & Policy Analyst : UNFPA India, Odisha State Office
 
 ---
 
-## License
+## 14. License
 
 This project is licensed under the **MIT License** : see [LICENSE](LICENSE) for details.
 
@@ -440,7 +440,7 @@ This project is licensed under the **MIT License** : see [LICENSE](LICENSE) for 
 
 ---
 
-## Citation
+## 15. Citation
 
 ```bibtex
 @misc{swain2026wildfire,
