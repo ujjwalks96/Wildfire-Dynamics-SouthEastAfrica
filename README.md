@@ -376,7 +376,7 @@ for yr in range(2015, 2024):
 
 ---
 
-## 🌍 Study Area Context
+## Study Area Context
 
 The study encompasses ~2.5 million km² across 25°E–40°E and 20°S–5°S:
 
@@ -387,28 +387,6 @@ The study encompasses ~2.5 million km² across 25°E–40°E and 20°S–5°S:
 | **Malawi** | Degraded woodland, Agricultural mosaic | : | 22,453 |
 | **Mozambique** | Coastal savanna, Miombo | 4th (73.5% area burned) | 380,585 |
 
----
-
-## 📚 References
-
-- Andela, N. et al. (2017). A human-driven decline in global burned area. *Science*, 356(6345), 1356–1362.
-- Giglio, L. et al. (2018). The Collection 6 MODIS burned area mapping algorithm and product. *Remote Sensing of Environment*, 217, 72–85.
-- Hansen, M.C. et al. (2013). High-Resolution Global Maps of 21st-Century Forest Cover Change. *Science*, 342, 850–853.
-- PLoS ONE (2025). Decadal trends in global burned area: sub-Saharan Africa in context.
-- Sentinel-5P Algorithm Teams (2019). *S5P Level 2 Product User Manual : CO, NO₂, AER_AI*. ESA/Copernicus.
-- Archibald, S. et al. (2013). Defining pyromes and global syndromes of fire regimes. *PNAS*, 110(16), 6442–6447.
-
----
-
-## 📄 Research Report
-
-A full analytical research report is included in [`report/Wildfire_Dynamics_SouthEastAfrica_Report.docx`](report/Wildfire_Dynamics_SouthEastAfrica_Report.docx) covering:
-
-- Background, context and rationale
-- Detailed dataset descriptions and GEE methodology
-- Analytical findings for all 8 figures (Sections 5.1–5.5)
-- Synthesis, discussion and conclusions
-- Full reference list
 
 ---
 
@@ -438,7 +416,7 @@ scipy           >= 1.11.0
 
 ---
 
-## 👤 Author
+## Author
 
 **Ujjwal Kumar Swain**
 
@@ -446,11 +424,11 @@ M.Sc. Geoinformation Science & Earth Observation : University of Twente / IIRS-I
 
 Geospatial AI Data & Policy Analyst : UNFPA India, Odisha State Office
 
-📧 [ujjwalks.iirs@gmail.com](mailto:ujjwalks.iirs@gmail.com) &nbsp;|&nbsp; 📱 +91 7978641480
+📧 [ujjwalks.iirs@gmail.com](mailto:ujjwalks.iirs@gmail.com) &nbsp;|&nbsp; Mobile no.: +91 7978641480
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License** : see [LICENSE](LICENSE) for details.
 
@@ -462,7 +440,7 @@ This project is licensed under the **MIT License** : see [LICENSE](LICENSE) for 
 
 ---
 
-## 📝 Citation
+## Citation
 
 ```bibtex
 @misc{swain2026wildfire,
