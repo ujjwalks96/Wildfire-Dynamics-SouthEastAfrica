@@ -82,8 +82,6 @@ The map is a fully self-contained HTML file (`outputs/maps/interactive_fire_heat
 | 🔍 **Findings** | 5 literature-validated key findings with citations |
 
 **Preview:**
-
-![Interactive Map Preview](figures/fig4_spatial_fire_map.png)
 *↑ Static preview : [click here for the live interactive version](https://ujjwalks96.github.io/Wildfire-Dynamics-SouthEastAfrica/outputs/maps/interactive_fire_heatmap.html)*
 
 
@@ -214,7 +212,7 @@ Section 12 → ZIP export of all outputs
 
 ![S5P Monthly Climatology](figures/fig5_s5p_monthly_climatology.png)
 
-**What it shows:** A 3×4 grid : three atmospheric products (CO, NO₂, Absorbing Aerosol Index) × four countries : showing monthly climatology (mean across 2018–2024). Fire season months (Jul–Oct) are highlighted in red; pre/post-season in orange; background months in grey.
+**What it shows:** A 3×4 grid: three atmospheric products (CO, NO₂, Absorbing Aerosol Index) × four countries : showing monthly climatology (mean across 2018–2024). Fire season months (Jul–Oct) are highlighted in red; pre/post-season in orange; background months in grey.
 
 **Key finding:** All three atmospheric metrics peak coherently with the MODIS fire calendar across all four countries. CO peaks at 45–50 mmol/m² in Zambia and Malawi during August–October. The AAI shifts from strongly negative wet-season values (~−1.2) to less negative fire-season values (~−0.4), confirming absorbing black-carbon aerosol loading from biomass burning smoke. NO₂ shows higher month-to-month noise consistent with its shorter ~1–3 day atmospheric lifetime.
 
