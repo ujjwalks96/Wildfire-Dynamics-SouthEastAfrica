@@ -438,6 +438,7 @@ M.Sc. Geoinformation Science & Earth Observation : ITC, University of Twente / I
 📧 [ujjwalks.iirs@gmail.com](mailto:ujjwalks.iirs@gmail.com) &nbsp;|&nbsp; Mobile no.: +917978641480
 
 This repository presents an **independent preliminary research exercise** undertaken for portfolio purposes. All data used are publicly available satellite products (MODIS MCD64A1, Sentinel-5P TROPOMI, Hansen GFC) accessed via Google Earth Engine. While every effort has been made to ensure methodological rigour, any discrepancies, inaccuracies, or errors in data processing, analysis, or interpretation are the sole responsibility of the author.
+
 ---
 
 ## 15. License
