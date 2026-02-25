@@ -250,11 +250,6 @@ Section 12 → ZIP export of all outputs
 
 ## 8. Setup and Usage
 
-### Prerequisites
-- **Google Earth Engine account** (free for research): [signup.earthengine.google.com](https://signup.earthengine.google.com)
-- **GEE project ID** : replace `ee-ujjwalkumarswainiirs1` in the notebook with your own
-- **Google Drive** : for raster exports from GEE (Section 3)
-- Recommended: **Google Colab Pro** (for longer GEE compute jobs)
 
 ### Option A : Google Colab (recommended)
 
